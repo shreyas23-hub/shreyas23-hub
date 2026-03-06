@@ -1,132 +1,21 @@
-<h1 align="center">Hi, I'm Shreyas DC</h1>
+# 💫 About Me:
+AI & ML student focused on building real-world projects<br>Interested in Artificial Intelligence, Machine Learning, and Cybersecurity<br>Passionate about solving logical and technical problems<br>Working on scalable tech products and startup ideas<br>Currently learning advanced AI systems and full-stack development
 
-<p align="center">
-AI & Machine Learning Student | Developer | Tech Builder
-</p>
 
----
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyasdc.231206@gmail.com) 
 
-## About Me
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shreyas23-hub&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shreyas23-hub&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas23-hub&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- AI & ML student focused on building real-world projects  
-- Interested in Artificial Intelligence, Machine Learning, and Cybersecurity  
-- Passionate about solving logical and technical problems  
-- Working on scalable tech products and startup ideas  
-- Currently learning advanced AI systems and full-stack development
-
----
-
-## Current Projects
-
-### Hybrid Healthcare Federated Learning
-A privacy-preserving AI system where hospitals train machine learning models locally and share updates with a central server without exposing sensitive data.
-
-**Tech Stack**
-- Python
-- PyTorch
-- Federated Learning
-- Client Server Architecture
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shreyas23-hub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=shreyas23-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Rent Your Neighbour
-A community-based web platform where people can rent or borrow items from nearby users.
-
-**Tech Stack**
-- React
-- Firebase
-- Authentication (Email, Google, OTP)
-- Real-time Database
-
-**Features**
-- User accounts
-- Item listing
-- Rental requests
-- Chat system
-- Admin dashboard
-
----
-
-### Smart Farming AI
-AI system for improving agriculture using intelligent recommendations.
-
-**Concepts**
-- Crop recommendation
-- Disease detection
-- Smart irrigation prediction
-
----
-
-### AI Resume Generator
-A web application that automatically generates professional resumes based on user input.
-
----
-
-### Border Security Force Game
-An Android game where players act as checkpoint officers inspecting vehicles for illegal items.
-
----
-
-## Skills
-
-### Programming
-- Python
-- JavaScript
-- HTML
-- CSS
-
-### AI / Machine Learning
-- Supervised Learning
-- Unsupervised Learning
-- Neural Networks
-- Data Visualization
-- Model Training
-
-### Web Development
-- React
-- Firebase
-- REST APIs
-- Authentication Systems
-
-### Cybersecurity & Networking
-- Port Scanning
-- Packet Analysis
-- Network Security Fundamentals
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Linux Basics
-
----
-
-## Currently Learning
-
-- Advanced Machine Learning
-- Deep Learning
-- Cloud Deployment
-- Scalable AI Systems
-- Cybersecurity Research
-
----
-
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shreyas23-hub&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas23-hub&layout=compact&theme=radical" />
-</p>
-
----
-
-## Connect With Me
-
-GitHub: https://github.com/shreyas23-hub
-
----
-
-Technology becomes powerful when ideas are turned into working systems.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
